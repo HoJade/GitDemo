@@ -1,0 +1,20 @@
+2024-02-11 11:22:57,916 :INFO : pytestsDemo.test_logging :Information statement
+2024-02-11 11:22:57,918 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-02-11 11:22:57,918 :ERROR : pytestsDemo.test_logging :A Major error Has Happened
+2024-02-11 11:22:57,918 :CRITICAL : pytestsDemo.test_logging :Critical Issue
+2024-02-11 11:25:00,296 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2024-02-11 11:25:00,296 :INFO : pytestsDemo.test_logging :Information statement
+2024-02-11 11:25:00,297 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-02-11 11:25:00,297 :ERROR : pytestsDemo.test_logging :A Major error Has Happened
+2024-02-11 11:25:00,297 :CRITICAL : pytestsDemo.test_logging :Critical Issue
+2024-02-11 13:13:06,237 :INFO : pytestsDemo.BaseClass :['Ryan', 'Gosling', 'google.com']
+2024-02-11 13:13:06,237 :INFO : pytestsDemo.BaseClass :google.com
+2024-02-11 13:21:54,729 :INFO : test_editProfile :['Ryan', 'Gosling', 'google.com']
+2024-02-11 13:21:54,730 :INFO : test_editProfile :google.com
+2024-02-11 13:35:57,231 :INFO : test_editProfile :['Ryan', 'Gosling', 'google.com']
+2024-02-11 13:35:57,232 :INFO : test_editProfile :google.com
+2024-02-11 13:35:57,234 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2024-02-11 13:35:57,234 :INFO : pytestsDemo.test_logging :Information statement
+2024-02-11 13:35:57,234 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-02-11 13:35:57,234 :ERROR : pytestsDemo.test_logging :A Major error Has Happened
+2024-02-11 13:35:57,234 :CRITICAL : pytestsDemo.test_logging :Critical Issue

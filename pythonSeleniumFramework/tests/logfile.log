@@ -1,0 +1,82 @@
+2024-02-13 16:52:09,136 :INFO : test_e2e :Getting the product name
+2024-02-13 16:52:09,551 :INFO : test_e2e :Blackberry
+2024-02-13 16:52:09,768 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 16:52:15,395 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-13 16:52:25,646 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 16:52:27,258 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:52:27,258 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:53:04,893 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 16:53:05,966 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:53:05,966 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:53:11,515 :INFO : test_e2e :Getting the product name
+2024-02-13 16:53:11,729 :INFO : test_e2e :Blackberry
+2024-02-13 16:53:11,907 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 16:53:17,364 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-13 16:53:42,912 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 16:53:44,181 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:53:44,181 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 16:53:49,562 :INFO : test_e2e :Getting the product name
+2024-02-13 16:53:49,691 :INFO : test_e2e :Blackberry
+2024-02-13 16:53:49,881 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 16:53:55,346 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-13 17:46:13,527 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 17:46:16,059 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 17:46:16,059 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 17:46:23,347 :INFO : test_e2e :Getting the product name
+2024-02-13 17:46:23,549 :INFO : test_e2e :Blackberry
+2024-02-13 17:46:24,092 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 17:46:29,923 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-13 21:05:51,650 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 21:05:52,824 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 21:05:52,824 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 21:06:07,313 :INFO : test_e2e :Getting the product name
+2024-02-13 21:06:07,495 :INFO : test_e2e :Blackberry
+2024-02-13 21:06:07,654 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 21:06:13,125 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-13 21:27:30,015 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-13 21:27:31,091 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 21:27:31,091 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-13 21:27:36,642 :INFO : test_e2e :Getting the product name
+2024-02-13 21:27:36,742 :INFO : test_e2e :Blackberry
+2024-02-13 21:27:36,898 :INFO : test_e2e :Entering the country name as rus
+2024-02-13 21:27:42,335 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-14 10:44:10,401 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-14 10:44:12,043 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 10:44:12,043 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 10:44:17,364 :INFO : test_e2e :Getting the product name
+2024-02-14 10:44:17,489 :INFO : test_e2e :Blackberry
+2024-02-14 10:44:17,657 :INFO : test_e2e :Entering the country name as rus
+2024-02-14 10:44:23,241 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-14 11:58:00,228 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-14 11:58:04,606 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 11:58:04,606 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 11:58:19,232 :INFO : test_e2e :Getting the product name
+2024-02-14 11:58:19,522 :INFO : test_e2e :Blackberry
+2024-02-14 11:58:20,055 :INFO : test_e2e :Entering the country name as rus
+2024-02-14 11:58:25,965 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-14 14:06:04,652 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-14 14:06:06,078 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 14:06:06,078 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-14 14:06:14,414 :INFO : test_e2e :Getting the product name
+2024-02-14 14:06:14,611 :INFO : test_e2e :Blackberry
+2024-02-14 14:06:14,867 :INFO : test_e2e :Entering the country name as rus
+2024-02-14 14:06:20,688 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-15 22:42:06,263 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-19 21:00:37,268 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-19 21:03:00,680 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-19 21:05:20,793 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-19 21:19:52,511 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-19 22:08:42,364 :INFO : test_formSubmission :email is hello@gmail.com
+2024-02-19 22:08:45,353 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-19 22:08:45,353 :INFO : test_formSubmission :email is test@gmail.com
+2024-02-20 14:59:02,436 :INFO : test_formSubmission :email is cheerup@gmail.com
+2024-02-20 15:38:51,219 :INFO : test_formSubmission :email is cheerup@gmail.com
